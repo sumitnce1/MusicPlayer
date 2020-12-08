@@ -1,0 +1,31 @@
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+}
+.content{
+	width: 100%;
+	position: absolute;
+	top: 10%;
+
+}
+h1{
+	text-align: center;
+	font-size: 90px;
+	color: #fff;
+	line-height: 100px;
+}
+.btn{
+	width: 100%;
+	position: absolute;
+	top: 55%;
+}
+p{
+	font-size: 15px;
+	color: #061761;
+	font-weight: bold;
+
+}
+#icon{
+	width: 90px;
+	cursor: pointer;
+}

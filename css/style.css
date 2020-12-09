@@ -1,6 +1,6 @@
 body{
 	background-image: url(bg.jpg);
-	background-size: cover;
+	background-position: center;
 }
 .content{
 	width: 100%;
@@ -12,7 +12,7 @@ h1{
 	text-align: center;
 	font-size: 90px;
 	color: #fff;
-	line-height: 100px;
+	line-height: 90px;
 }
 .btn{
 	width: 100%;
